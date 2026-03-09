@@ -1,97 +1,123 @@
-<h1 align="left">Hi 👋 I'm Love Mishra</h1>
+<h1 align="center">Hi 👋 I'm Love Mishra</h1>
 
-<p align="left">
-Full-Stack Developer | React • Next.js • Node.js <br>
-B.Tech Student (Internet of Things) | India
+<h3 align="center">Full-Stack Developer | React • Next.js • Node.js</h3>
+
+<p align="center">
+B.Tech Student (Internet of Things) • India
 </p>
 
 ---
 
-<h2 align="left">About Me</h2>
-
-<p align="left">
-💻 Full-stack developer focused on building modern web applications and scalable APIs.<br>
-🚀 Experienced with React, Next.js, Node.js, and modern JavaScript technologies.<br>
-🧠 Interested in full-stack systems, secure authentication, and IoT-based platforms.<br>
-📚 Currently exploring deeper backend architecture and scalable application design.<br>
-⚡ Passionate about turning ideas into real, working products.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7C52B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Learning+Scalable+Systems" />
 </p>
 
 ---
 
-<h2 align="left">Tech Stack</h2>
+# 👨‍💻 About Me
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-
-</div>
+💻 Full-stack developer building modern web applications and scalable APIs  
+🚀 Experienced with **React, Next.js, Node.js, and MongoDB**  
+🧠 Interested in **secure systems, backend architecture, and IoT platforms**  
+📚 Currently learning **advanced backend design and scalable application architecture**  
+⚡ Passionate about turning ideas into real, working products  
 
 ---
 
-<h2 align="left">Featured Projects</h2>
+# 🛠 Tech Stack
 
 <p align="left">
 
-🔹 <b>Joon</b> – Full-Stack E-Commerce Platform  
-Multi-vendor marketplace with buyer/seller dashboards, secure authentication, and order tracking.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="10"/>
 
-🔹 <b>CampusShare</b> – Peer-to-Peer Electronics Sharing Platform  
-A platform for students to share and borrow electronics components with transaction tracking.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img width="10"/>
 
-🔹 <b>SecureVault</b> – Encrypted Password Manager  
-Secure credential vault with encrypted storage and protected authentication.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="10"/>
 
-🔹 <b>Samvaad</b> – Governance Intelligence Dashboard  
-Data-driven dashboard for booth-level analytics and voter information systems.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 
 </p>
 
 ---
 
-<h2 align="left">Connect With Me</h2>
+# 🚀 Featured Projects
 
-<p align="left">
-🌐 Portfolio: https://portfolio-love.netlify.app <br>
-💼 LinkedIn: https://linkedin.com/in/love-mishra-8aa7b5332 <br>
-📂 GitHub: https://github.com/lovemishra28
+### 🛒 Joon — Full-Stack E-Commerce Platform
+Multi-vendor marketplace with buyer/seller dashboards, authentication, and order tracking.
+
+### 🔌 CampusShare — Peer-to-Peer Component Lending Platform
+Platform for students to share electronics components with transaction lifecycle tracking.
+
+### 🔐 SecureVault — Encrypted Password Manager
+Secure credential vault with encrypted storage and protected authentication routes.
+
+### 🗳 Samvaad — Governance Intelligence Dashboard
+Booth-level analytics dashboard designed for data-driven decision support.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lovemishra28&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovemishra28&layout=compact&theme=tokyonight" height="180"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=lovemishra28&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+🌍 Portfolio  
+https://portfolio-love.netlify.app  
+
+💼 LinkedIn  
+https://linkedin.com/in/love-mishra-8aa7b5332  
+
+📂 GitHub  
+https://github.com/lovemishra28
