@@ -12,11 +12,11 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="middle" align="center">
-  <img src="./assets/plunging-text.svg" width="95%" alt="PLUNGING ENDLESSLY INTO THE DEEPNESS OF TECH" />
+<td width="60%" align="center" valign="middle">
+  <img width="100%" src="./assets/plunging-text.svg" alt="PLUNGING ENDLESSLY INTO THE DEEPNESS OF TECH" />
 </td>
-<td width="40%" valign="middle" align="right">
-  <img src="./assets/falling-cat.gif" width="370" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Falling through cosmic tech" />
+<td width="40%" align="right" valign="middle">
+  <img width="100%" src="./assets/falling-cat.gif" alt="Falling through cosmic tech" />
 </td>
 </tr>
 </table>

@@ -1,37 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 640" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800;900&amp;family=Share+Tech+Mono&amp;display=swap');
-
     .robot-font {
-      font-family: 'Orbitron', 'Share Tech Mono', 'Courier New', 'Fira Code', monospace;
+      font-family: 'Consolas', 'Courier New', 'SF Mono', 'Roboto Mono', 'Ubuntu Mono', monospace;
       font-weight: 900;
       text-transform: uppercase;
-      letter-spacing: 7px;
+      letter-spacing: 9px;
     }
 
     .t-white {
       fill: #FFFFFF;
-      font-size: 62px;
+      font-size: 78px;
     }
 
     .t-light {
-      fill: #F3E4E5;
-      font-size: 62px;
+      fill: #F5E8E9;
+      font-size: 78px;
     }
 
     .t-rose {
       fill: #E2B8BA;
-      font-size: 62px;
+      font-size: 78px;
     }
 
     .t-wine-bright {
       fill: #D95F65;
-      font-size: 62px;
+      font-size: 78px;
     }
 
     .t-wine-base {
       fill: #C24E54;
-      font-size: 62px;
+      font-size: 78px;
     }
 
     .cursor {
@@ -45,10 +43,10 @@
     }
   </style>
 
-  <!-- Perfectly Centered, Solid-Color Stacked Robotic Typography -->
-  <text x="50%" y="115" text-anchor="middle" class="robot-font t-white">PLUNGING</text>
-  <text x="50%" y="235" text-anchor="middle" class="robot-font t-light">ENDLESSLY</text>
-  <text x="50%" y="355" text-anchor="middle" class="robot-font t-rose">INTO THE</text>
-  <text x="50%" y="475" text-anchor="middle" class="robot-font t-wine-bright">DEEPNESS</text>
-  <text x="50%" y="595" text-anchor="middle" class="robot-font t-wine-base">OF TECH<tspan class="cursor">_</tspan></text>
+  <!-- Giant, Bold, Wide Robotic Stacked Typography (Width 600, Height 640) -->
+  <text x="50%" y="125" text-anchor="middle" class="robot-font t-white">PLUNGING</text>
+  <text x="50%" y="245" text-anchor="middle" class="robot-font t-light">ENDLESSLY</text>
+  <text x="50%" y="365" text-anchor="middle" class="robot-font t-rose">INTO THE</text>
+  <text x="50%" y="485" text-anchor="middle" class="robot-font t-wine-bright">DEEPNESS</text>
+  <text x="50%" y="605" text-anchor="middle" class="robot-font t-wine-base">OF TECH<tspan class="cursor">_</tspan></text>
 </svg>
