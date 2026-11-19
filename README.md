@@ -12,44 +12,33 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle" align="left">
 
-```typescript
-const love = {
-    role: "Full-Stack & IoT Undergrad",
-    location: "India 🇮🇳",
+<br>
 
-    building: [
-        "Precision Agriculture Platforms",
-        "Citizen Intelligence & Governance",
-        "Full-Stack Web & Mobile Apps"
-    ],
+# 🌌 *"Plunging endlessly into the deepness of tech..."*
 
-    learning: [
-        "Advanced Backend Architecture",
-        "Distributed Systems & Microservices",
-        "Edge IoT Telemetry & BLE",
-        "System Design"
-    ],
+> **"Just like a cat tumbling through an infinite starry void, I find myself falling deeper and deeper into the realms of code, architecture, and hardware every single day — fueled by raw curiosity and an obsession to build."**
 
-    tech: {
-        frontend: ["React", "Next.js", "React Native", "Tailwind"],
-        backend: ["Node.js", "Express", "FastAPI", "Flask"],
-        database: ["PostgreSQL", "MongoDB", "Supabase"],
-        iot: ["ESP32", "BLE 5.0", "Sensors"]
-    }
-};
+```text
+while (curiosity.alive()) {
+    dive_deeper_into_tech();
+    build_things_that_matter();
+}
 ```
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+💻 **Full-Stack & IoT Undergrad** based in India 🇮🇳  
+⚡ Dedicated to crafting robust web ecosystems, real-time telemetry systems, and machine-learning-driven intelligence.
+
+<br>
 
 </td>
 
-<td width="42%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+<img src="./assets/falling-cat.gif" width="340" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Falling through cosmic tech" />
 
 </td>
 </tr>
@@ -115,37 +104,15 @@ const love = {
   <tr>
     <td width="50%" valign="top">
       <h3>🌱 <a href="https://github.com/lovemishra28/AAROH">AAROH (AgroPulse)</a></h3>
-      <p>Offline-first precision agronomic intelligence platform for smallholder farmers. Ingests ESP32 multi-depth soil telemetry via BLE and delivers ML-calibrated crop recommendations, nutrient deficit analysis, and localized fertilizer costing.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> • <code>React Native</code> • <code>FastAPI</code> • <code>LightGBM</code> • <code>PostGIS</code> • <code>ESP32</code></p>
+      <p>Offline-first precision agronomic intelligence platform designed for smallholder farmers. Ingests ESP32 multi-depth soil telemetry via BLE and delivers ML-calibrated crop recommendations, nutrient deficit analysis, and localized fertilizer costing.</p>
+      <p>🛠️ <b>Tech Stack:</b><br>
+      <code>TypeScript</code> • <code>React Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>LightGBM</code> • <code>PostgreSQL / PostGIS</code> • <code>ESP32 IoT</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/lovemishra28/SAMVAD">SAMVAD (संवाद)</a> • <a href="https://samvad-nu.vercel.app/">Live ↗</a></h3>
-      <p>Data-driven governance intelligence and voter dialogue platform. Features booth-level demographic analytics, citizen sentiment tracking, and conversational interfaces for transparent public scheme delivery.</p>
-      <p><b>Tech:</b> <code>JavaScript</code> • <code>Next.js</code> • <code>React Native</code> • <code>Node.js</code> • <code>Flask</code> • <code>MongoDB</code> • <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/lovemishra28/Quizeee">Quizeee</a></h3>
-      <p>AI-powered adaptive learning system providing automated PDF/text-to-quiz generation, teacher and student dashboards, competitive live multiplayer quizzes, and granular classroom analytics.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> • <code>Next.js 16</code> • <code>React 19</code> • <code>Supabase</code> • <code>Gemini/NVIDIA AI</code> • <code>Tailwind</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/lovemishra28/Sanjivani">Sanjivani (संजीवनी)</a></h3>
-      <p>Seed-to-market digital supply chain transparency platform connecting medicinal herb farmers (कृषक), ayurvedic manufacturers (निर्माता), and certified testing labs with end-to-end batch traceability.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> • <code>React Native</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://github.com/lovemishra28/Joon">Joon</a> • <a href="https://joon-trk4.vercel.app/">Live ↗</a></h3>
-      <p>Modern multi-vendor e-commerce marketplace featuring buyer/seller portals, dynamic catalog browsing with category filtering, Cloudinary image pipeline, persistent carts, and order tracking.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> • <code>Next.js</code> • <code>React</code> • <code>MongoDB</code> • <code>Cloudinary</code> • <code>Tailwind</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔄 <a href="https://github.com/lovemishra28/CampusShare">CampusShare</a> • <a href="https://campus-share-topaz.vercel.app">Live ↗</a></h3>
-      <p>Peer-to-peer campus hardware and component sharing platform for engineering students to lend/borrow electronics, track transaction lifecycles, and showcase project portfolios with reputation scores.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> • <code>Next.js</code> • <code>Tailwind CSS</code> • <code>JWT Auth</code></p>
+      <h3>🏛️ <a href="https://github.com/lovemishra28/SAMVAD">SAMVAD (संवाद)</a> • <a href="https://samvad-nu.vercel.app/">Live Demo ↗</a></h3>
+      <p>Intelligent citizen engagement and voter dialogue platform. Features booth-level demographic analytics, sentiment tracking, AI-powered conversational assistance, and transparent public welfare distribution tracking.</p>
+      <p>🛠️ <b>Tech Stack:</b><br>
+      <code>JavaScript</code> • <code>Next.js 16</code> • <code>React Native</code> • <code>Node.js</code> • <code>Flask</code> • <code>MongoDB</code> • <code>Docker</code></p>
     </td>
   </tr>
 </table>
@@ -166,16 +133,6 @@ const love = {
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lovemishra28&theme=tokyonight"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lovemishra28&theme=tokyonight"/>
-</p>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/lovemishra28">
-    <img src="https://sairaj2033-github-trophy.vercel.app/?username=lovemishra28&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />
-  </a>
 </p>
 
 <br>
