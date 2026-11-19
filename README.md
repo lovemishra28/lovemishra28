@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=220&section=header&text=LOVE%20MISHRA&fontSize=52&fontAlignY=38&desc=Full-Stack%20%7C%20IoT%20%26%20Embedded%20Systems%20%7C%20AI%20Solutions&descAlignY=62&descSize=18&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="./assets/header-banner.svg" alt="Love Mishra Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
 </p>
 
 <br>
@@ -12,31 +12,13 @@
 
 <table>
 <tr>
-<td width="58%" valign="middle" align="left">
+<td width="56%" valign="middle" align="center">
 
-<br>
-
-# 🌌 *"Plunging endlessly into the deepness of tech..."*
-
-> **"Just like a cat tumbling through an infinite starry void, I find myself falling deeper and deeper into the realms of code, architecture, and hardware every single day — fueled by raw curiosity and an obsession to build."**
-
-```text
-while (curiosity.alive()) {
-    dive_deeper_into_tech();
-    build_things_that_matter();
-}
-```
-
-<br>
-
-💻 **Full-Stack & IoT Undergrad** based in India 🇮🇳  
-⚡ Dedicated to crafting robust web ecosystems, real-time telemetry systems, and machine-learning-driven intelligence.
-
-<br>
+<img src="./assets/plunging-text.svg" width="100%" alt="PLUNGING ENDLESSLY INTO THE DEEPNESS OF TECH" />
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="44%" align="center" valign="middle">
 
 <img src="./assets/falling-cat.gif" width="340" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Falling through cosmic tech" />
 
@@ -148,5 +130,5 @@ while (curiosity.alive()) {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=1,11,18,24" />
+  <img width="100%" src="./assets/footer-line.svg" alt="Footer line" />
 </p>
