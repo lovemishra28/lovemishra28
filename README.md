@@ -3,25 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=D95F65&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
 </p>
 
 <br>
 
 ## 📌 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="56%" valign="middle" align="center">
-
-<img src="./assets/plunging-text.svg" width="100%" alt="PLUNGING ENDLESSLY INTO THE DEEPNESS OF TECH" />
-
+<td width="60%" valign="middle" align="center">
+  <img src="./assets/plunging-text.svg" width="95%" alt="PLUNGING ENDLESSLY INTO THE DEEPNESS OF TECH" />
 </td>
-
-<td width="44%" align="center" valign="middle">
-
-<img src="./assets/falling-cat.gif" width="340" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Falling through cosmic tech" />
-
+<td width="40%" valign="middle" align="right">
+  <img src="./assets/falling-cat.gif" width="370" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Falling through cosmic tech" />
 </td>
 </tr>
 </table>
@@ -82,7 +77,7 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🌱 <a href="https://github.com/lovemishra28/AAROH">AAROH (AgroPulse)</a></h3>
@@ -122,7 +117,7 @@
 ## 📋 Profile Summary
 
 <p align="center">
-  <img height="32" src="https://komarev.com/ghpvc/?username=lovemishra28&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+  <img height="32" src="https://komarev.com/ghpvc/?username=lovemishra28&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=702c2f"/>
 </p>
 
 <p align="center">

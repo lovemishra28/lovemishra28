@@ -1,30 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" width="100%" height="100%">
-  <defs>
-    <!-- White-to-Silver Gradient for Primary Words -->
-    <linearGradient id="cyberWhite" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="60%" stop-color="#F1F5F9" />
-      <stop offset="100%" stop-color="#CBD5E1" />
-    </linearGradient>
-
-    <!-- Neon Cyber Cyan Gradient for Accent Words -->
-    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="50%" stop-color="#00E5FF" />
-      <stop offset="100%" stop-color="#818CF8" />
-    </linearGradient>
-
-    <!-- Intense Robotic Glow -->
-    <filter id="cyberGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 640" width="100%" height="100%">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800;900&amp;family=Share+Tech+Mono&amp;display=swap');
 
@@ -32,23 +6,36 @@
       font-family: 'Orbitron', 'Share Tech Mono', 'Courier New', 'Fira Code', monospace;
       font-weight: 900;
       text-transform: uppercase;
-      letter-spacing: 6px;
+      letter-spacing: 7px;
     }
 
-    .t-main {
-      fill: url(#cyberWhite);
-      font-size: 64px;
-      filter: drop-shadow(0 6px 16px rgba(0,0,0,0.8));
+    .t-white {
+      fill: #FFFFFF;
+      font-size: 62px;
     }
 
-    .t-neon {
-      fill: url(#neonCyan);
-      font-size: 64px;
-      filter: url(#cyberGlow);
+    .t-light {
+      fill: #F3E4E5;
+      font-size: 62px;
+    }
+
+    .t-rose {
+      fill: #E2B8BA;
+      font-size: 62px;
+    }
+
+    .t-wine-bright {
+      fill: #D95F65;
+      font-size: 62px;
+    }
+
+    .t-wine-base {
+      fill: #C24E54;
+      font-size: 62px;
     }
 
     .cursor {
-      fill: #00E5FF;
+      fill: #E87A80;
       animation: blink 0.9s steps(1) infinite;
     }
 
@@ -58,10 +45,10 @@
     }
   </style>
 
-  <!-- Clean Stacked Giant Robotic Text -->
-  <text x="20" y="115" class="robot-font t-main">PLUNGING</text>
-  <text x="20" y="235" class="robot-font t-main">ENDLESSLY</text>
-  <text x="20" y="355" class="robot-font t-main">INTO THE</text>
-  <text x="20" y="475" class="robot-font t-neon">DEEPNESS</text>
-  <text x="20" y="595" class="robot-font t-neon">OF TECH<tspan class="cursor">_</tspan></text>
+  <!-- Perfectly Centered, Solid-Color Stacked Robotic Typography -->
+  <text x="50%" y="115" text-anchor="middle" class="robot-font t-white">PLUNGING</text>
+  <text x="50%" y="235" text-anchor="middle" class="robot-font t-light">ENDLESSLY</text>
+  <text x="50%" y="355" text-anchor="middle" class="robot-font t-rose">INTO THE</text>
+  <text x="50%" y="475" text-anchor="middle" class="robot-font t-wine-bright">DEEPNESS</text>
+  <text x="50%" y="595" text-anchor="middle" class="robot-font t-wine-base">OF TECH<tspan class="cursor">_</tspan></text>
 </svg>
