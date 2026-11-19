@@ -1,155 +1,195 @@
-<h1 align="left">Hi 👋 I'm Love Mishra</h1>
-
-<p align="left">
-<b>Full-Stack & IoT Developer | React • Next.js • Node.js • TypeScript</b><br>
-B.Tech in Internet of Things | India
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=220&section=header&text=LOVE%20MISHRA&fontSize=52&fontAlignY=38&desc=Full-Stack%20%7C%20IoT%20%26%20Embedded%20Systems%20%7C%20AI%20Solutions&descAlignY=62&descSize=18&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="left">
-  <a href="https://portfolio-love.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
+</p>
+
+<br>
+
+## 📌 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```typescript
+const love = {
+    role: "Full-Stack & IoT Undergrad",
+    location: "India 🇮🇳",
+
+    building: [
+        "Precision Agriculture Platforms",
+        "Citizen Intelligence & Governance",
+        "Full-Stack Web & Mobile Apps"
+    ],
+
+    learning: [
+        "Advanced Backend Architecture",
+        "Distributed Systems & Microservices",
+        "Edge IoT Telemetry & BLE",
+        "System Design"
+    ],
+
+    tech: {
+        frontend: ["React", "Next.js", "React Native", "Tailwind"],
+        backend: ["Node.js", "Express", "FastAPI", "Flask"],
+        database: ["PostgreSQL", "MongoDB", "Supabase"],
+        iot: ["ESP32", "BLE 5.0", "Sensors"]
+    }
+};
+```
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📬 Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/love-mishra-8aa7b5332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="165" height="32" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="https://portfolio-love.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-1C1D21?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=22C55E" width="165" height="32" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://github.com/lovemishra28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-1C1D21?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="165" height="32" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/truelove.006/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="165" height="32" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:lovemishra1606@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="165" height="32" alt="Gmail" />
   </a>
 </p>
 
----
+<br>
 
-<h2 align="left">About Me</h2>
+## 🛠️ Tech Stack
 
-<p align="left">
-💻 <b>Full-stack developer</b> focused on building scalable web platforms, real-time IoT architectures, and data-driven systems.<br>
-🚀 <b>Modern Web & Mobile:</b> Experienced with React, Next.js, React Native, Node.js, and TypeScript.<br>
-🌱 <b>Real-World Impact:</b> Building domain-specific solutions across precision agriculture, supply chain transparency, and citizen intelligence.<br>
-🧠 <b>IoT & Machine Learning:</b> Integrating ESP32 sensor telemetry, cloud APIs, and predictive ML models.<br>
-⚡ <b>Philosophy:</b> Passionate about turning complex real-world problems into clean, accessible, and production-ready software.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flask,mongodb,postgres,supabase,docker,git,github,linux,postman,tailwind&perline=11" />
 </p>
 
----
-
-<h2 align="left">Tech Stack</h2>
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React / React Native" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" title="Express.js" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" title="FastAPI" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" title="Flask" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" title="Supabase" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" title="Tailwind CSS" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel" title="Vercel" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp" title="C++" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
-
-</div>
-
----
-
-<h2 align="left">Featured Projects</h2>
-
-<p align="left">
-
-🔹 <b><a href="https://github.com/lovemishra28/AAROH">AAROH (AgroPulse)</a></b> — <i>Offline-First Precision Agronomic Intelligence & IoT Platform</i><br>
-An offline-first precision agriculture & IoT ecosystem engineered for smallholder farmers. Captures multi-depth soil telemetry via ESP32 BLE hardware and delivers ML-calibrated crop recommendations, nutrient deficiency calculations, and physical fertilizer costing.<br>
-🛠️ <code>TypeScript</code> • <code>React Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>LightGBM</code> • <code>PostgreSQL / PostGIS</code> • <code>ESP32 IoT</code>
-
-<br><br>
-
-🔹 <b><a href="https://github.com/lovemishra28/SAMVAD">SAMVAD (संवाद)</a></b> — <i>Citizen Engagement & Voter Intelligence Platform</i> • <a href="https://samvad-nu.vercel.app/"><b>Live Demo ↗</b></a><br>
-A data-driven platform bridging the gap between governance, public schemes, and citizens through transparent dialogue. Features booth-level demographic analytics, sentiment tracking, and conversational AI assistance.<br>
-🛠️ <code>JavaScript</code> • <code>Next.js</code> • <code>React Native</code> • <code>Node.js</code> • <code>Flask</code> • <code>MongoDB</code> • <code>Docker</code>
-
-<br><br>
-
-🔹 <b><a href="https://github.com/lovemishra28/Quizeee">Quizeee</a></b> — <i>AI-Powered Adaptive Learning & Assessment Platform</i><br>
-A modern learning platform providing automated PDF/text-to-quiz generation, teacher and student dashboards, competitive live multiplayer quizzes, and granular classroom performance analytics.<br>
-🛠️ <code>TypeScript</code> • <code>Next.js 16</code> • <code>React 19</code> • <code>Supabase</code> • <code>Gemini / NVIDIA AI</code> • <code>Tailwind CSS</code>
-
-<br><br>
-
-🔹 <b><a href="https://github.com/lovemishra28/Sanjivani">Sanjivani (संजीवनी)</a></b> — <i>Ayurvedic Herb Supply Chain & Traceability Platform</i><br>
-A seed-to-market traceability platform connecting herbal farmers (कृषक), ayurvedic manufacturers (निर्माता), and certified testing laboratories with end-to-end transparency and verifiable batches.<br>
-🛠️ <code>TypeScript</code> • <code>React Native</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>Docker</code>
-
-<br><br>
-
-🔹 <b><a href="https://github.com/lovemishra28/Joon">Joon</a></b> — <i>Full-Stack Multi-Vendor E-Commerce Platform</i> • <a href="https://joon-trk4.vercel.app/"><b>Live Demo ↗</b></a><br>
-A full-stack e-commerce solution featuring dedicated buyer and seller dashboards, categorized dynamic catalog browsing, Cloudinary media pipeline, secure JWT authentication, and real-time order tracking.<br>
-🛠️ <code>TypeScript</code> • <code>Next.js</code> • <code>React</code> • <code>MongoDB</code> • <code>Tailwind CSS</code> • <code>Cloudinary</code>
-
-<br><br>
-
-🔹 <b><a href="https://github.com/lovemishra28/CampusShare">CampusShare</a></b> — <i>Peer-to-Peer Campus Component Lending Platform</i> • <a href="https://campus-share-topaz.vercel.app"><b>Live Demo ↗</b></a><br>
-A collaborative campus platform allowing engineering students to lend and borrow electronic components and hardware, track request lifecycles, showcase projects, and cultivate community trust with reputation metrics.<br>
-🛠️ <code>TypeScript</code> • <code>Next.js</code> • <code>Tailwind CSS</code> • <code>JWT Auth</code>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+<br>
 
-<h2 align="left">GitHub Stats</h2>
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovemishra28&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Love Mishra's GitHub Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=lovemishra28&theme=github_dark&hide_border=true" alt="Love Mishra's Streak" height="150" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/lovemishra28/AAROH">AAROH (AgroPulse)</a></h3>
+      <p>Offline-first precision agronomic intelligence platform for smallholder farmers. Ingests ESP32 multi-depth soil telemetry via BLE and delivers ML-calibrated crop recommendations, nutrient deficit analysis, and localized fertilizer costing.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>React Native</code> • <code>FastAPI</code> • <code>LightGBM</code> • <code>PostGIS</code> • <code>ESP32</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/lovemishra28/SAMVAD">SAMVAD (संवाद)</a> • <a href="https://samvad-nu.vercel.app/">Live ↗</a></h3>
+      <p>Data-driven governance intelligence and voter dialogue platform. Features booth-level demographic analytics, citizen sentiment tracking, and conversational interfaces for transparent public scheme delivery.</p>
+      <p><b>Tech:</b> <code>JavaScript</code> • <code>Next.js</code> • <code>React Native</code> • <code>Node.js</code> • <code>Flask</code> • <code>MongoDB</code> • <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/lovemishra28/Quizeee">Quizeee</a></h3>
+      <p>AI-powered adaptive learning system providing automated PDF/text-to-quiz generation, teacher and student dashboards, competitive live multiplayer quizzes, and granular classroom analytics.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>Next.js 16</code> • <code>React 19</code> • <code>Supabase</code> • <code>Gemini/NVIDIA AI</code> • <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/lovemishra28/Sanjivani">Sanjivani (संजीवनी)</a></h3>
+      <p>Seed-to-market digital supply chain transparency platform connecting medicinal herb farmers (कृषक), ayurvedic manufacturers (निर्माता), and certified testing labs with end-to-end batch traceability.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>React Native</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/lovemishra28/Joon">Joon</a> • <a href="https://joon-trk4.vercel.app/">Live ↗</a></h3>
+      <p>Modern multi-vendor e-commerce marketplace featuring buyer/seller portals, dynamic catalog browsing with category filtering, Cloudinary image pipeline, persistent carts, and order tracking.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>Next.js</code> • <code>React</code> • <code>MongoDB</code> • <code>Cloudinary</code> • <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/lovemishra28/CampusShare">CampusShare</a> • <a href="https://campus-share-topaz.vercel.app">Live ↗</a></h3>
+      <p>Peer-to-peer campus hardware and component sharing platform for engineering students to lend/borrow electronics, track transaction lifecycles, and showcase project portfolios with reputation scores.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>Next.js</code> • <code>Tailwind CSS</code> • <code>JWT Auth</code></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lovemishra28&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lovemishra28&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lovemishra28&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
-<h2 align="left">Connect With Me</h2>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lovemishra28&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lovemishra28&theme=tokyonight"/>
+</p>
 
-<p align="left">
-🌐 <b>Portfolio:</b> <a href="https://portfolio-love.netlify.app">portfolio-love.netlify.app</a><br>
-💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/love-mishra-8aa7b5332">linkedin.com/in/love-mishra-8aa7b5332</a><br>
-📂 <b>GitHub:</b> <a href="https://github.com/lovemishra28">github.com/lovemishra28</a>
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/lovemishra28">
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=lovemishra28&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br>
+
+## 📋 Profile Summary
+
+<p align="center">
+  <img height="32" src="https://komarev.com/ghpvc/?username=lovemishra28&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+</p>
+
+<p align="center">
+  <i>"Transforming ideas into scalable systems and hardware-driven intelligence."</i> 🚀
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=1,11,18,24" />
 </p>
