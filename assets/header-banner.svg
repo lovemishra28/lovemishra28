@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="100%">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2A1416" stroke-width="1"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#26070B" stroke-width="1"/>
     </pattern>
   </defs>
 
@@ -14,7 +14,7 @@
       font-size: 68px;
       letter-spacing: 14px;
       text-transform: uppercase;
-      fill: #D95F65;
+      fill: #EA3B52;
     }
     .banner-sub {
       font-family: 'Share Tech Mono', 'Courier New', monospace;
@@ -22,26 +22,26 @@
       font-size: 16px;
       letter-spacing: 7px;
       text-transform: uppercase;
-      fill: #E2B8BA;
+      fill: #F7A8B2;
     }
     .banner-tag {
       font-family: 'Share Tech Mono', 'Courier New', monospace;
       font-size: 13px;
       letter-spacing: 5px;
-      fill: #E87A80;
+      fill: #F06277;
     }
     .star-solid {
-      fill: #C24E54;
+      fill: #EA3B52;
       opacity: 0.7;
     }
     .star-dim {
-      fill: #702C2F;
+      fill: #931829;
       opacity: 0.6;
     }
   </style>
 
-  <!-- Solid Canvas Background (Harmonized Dark Wine-Charcoal) -->
-  <rect width="1200" height="260" rx="16" fill="#0E0809" stroke="#702C2F" stroke-width="2" />
+  <!-- Solid Canvas Background (Crimson-Charcoal Theme) -->
+  <rect width="1200" height="260" rx="16" fill="#0D0406" stroke="#931829" stroke-width="2" />
   <rect width="1200" height="260" rx="16" fill="url(#grid)" />
 
   <!-- Subtle Solid Star Accents -->
@@ -57,18 +57,18 @@
   <rect x="1110" y="220" width="2" height="2" class="star-dim" />
 
   <!-- Decorative Solid Corner Accents -->
-  <path d="M 25 50 L 25 25 L 50 25" fill="none" stroke="#D95F65" stroke-width="2.5" />
-  <path d="M 1175 50 L 1175 25 L 1150 25" fill="none" stroke="#D95F65" stroke-width="2.5" />
-  <path d="M 25 210 L 25 235 L 50 235" fill="none" stroke="#702C2F" stroke-width="2.5" />
-  <path d="M 1175 210 L 1175 235 L 1150 235" fill="none" stroke="#702C2F" stroke-width="2.5" />
+  <path d="M 25 50 L 25 25 L 50 25" fill="none" stroke="#EA3B52" stroke-width="2.5" />
+  <path d="M 1175 50 L 1175 25 L 1150 25" fill="none" stroke="#EA3B52" stroke-width="2.5" />
+  <path d="M 25 210 L 25 235 L 50 235" fill="none" stroke="#931829" stroke-width="2.5" />
+  <path d="M 1175 210 L 1175 235 L 1150 235" fill="none" stroke="#931829" stroke-width="2.5" />
 
   <!-- Center Typography -->
   <text x="600" y="68" text-anchor="middle" class="banner-tag">&lt; DEVELOPER_SYSTEM_ONLINE /&gt;</text>
   <text x="600" y="146" text-anchor="middle" class="banner-title">LOVE MISHRA</text>
   
   <!-- Solid Divider Line -->
-  <line x1="280" y1="170" x2="920" y2="170" stroke="#702C2F" stroke-width="2" />
-  <circle cx="600" cy="170" r="4" fill="#D95F65" />
+  <line x1="280" y1="170" x2="920" y2="170" stroke="#931829" stroke-width="2" />
+  <circle cx="600" cy="170" r="4" fill="#EA3B52" />
 
   <text x="600" y="205" text-anchor="middle" class="banner-sub">FULL-STACK • IOT &amp; SYSTEMS • AI SOLUTIONS</text>
 </svg>

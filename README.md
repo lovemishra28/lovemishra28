@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=D95F65&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=EA3B52&center=true&vCenter=true&width=750&lines=Full-Stack+%26+IoT+Engineer;Building+Precision+AgTech+%26+Smart+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Crafting+Production-Ready+Scalable+Products;Always+Learning+Something+New;" />
 </p>
 
 <br>
@@ -125,7 +125,7 @@
 ## 📋 Profile Summary
 
 <p align="center">
-  <img height="32" src="https://komarev.com/ghpvc/?username=lovemishra28&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=702c2f"/>
+  <img height="32" src="https://komarev.com/ghpvc/?username=lovemishra28&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=931829"/>
 </p>
 
 <p align="center">

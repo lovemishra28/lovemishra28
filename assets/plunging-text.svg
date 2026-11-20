@@ -13,27 +13,27 @@
     }
 
     .t-light {
-      fill: #F5E8E9;
+      fill: #FDF2F3;
       font-size: 78px;
     }
 
     .t-rose {
-      fill: #E2B8BA;
+      fill: #F7A8B2;
       font-size: 78px;
     }
 
     .t-wine-bright {
-      fill: #D95F65;
+      fill: #EA3B52;
       font-size: 78px;
     }
 
     .t-wine-base {
-      fill: #C24E54;
+      fill: #931829;
       font-size: 78px;
     }
 
     .cursor {
-      fill: #E87A80;
+      fill: #F06277;
       animation: blink 0.9s steps(1) infinite;
     }
 
