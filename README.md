@@ -80,12 +80,20 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/lovemishra28/AAROH" target="_blank">
+        <img width="100%" src="./assets/project-aaroh.png" alt="AAROH (AgroPulse)" style="border-radius: 8px;" />
+      </a>
+      <br><br>
       <h3>🌱 <a href="https://github.com/lovemishra28/AAROH">AAROH (AgroPulse)</a></h3>
       <p>Offline-first precision agronomic intelligence platform designed for smallholder farmers. Ingests ESP32 multi-depth soil telemetry via BLE and delivers ML-calibrated crop recommendations, nutrient deficit analysis, and localized fertilizer costing.</p>
       <p>🛠️ <b>Tech Stack:</b><br>
       <code>TypeScript</code> • <code>React Native</code> • <code>Node.js</code> • <code>FastAPI</code> • <code>LightGBM</code> • <code>PostgreSQL / PostGIS</code> • <code>ESP32 IoT</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/lovemishra28/SAMVAD" target="_blank">
+        <img width="100%" src="./assets/project-samvad.png" alt="SAMVAD (संवाद)" style="border-radius: 8px;" />
+      </a>
+      <br><br>
       <h3>🏛️ <a href="https://github.com/lovemishra28/SAMVAD">SAMVAD (संवाद)</a> • <a href="https://samvad-nu.vercel.app/">Live Demo ↗</a></h3>
       <p>Intelligent citizen engagement and voter dialogue platform. Features booth-level demographic analytics, sentiment tracking, AI-powered conversational assistance, and transparent public welfare distribution tracking.</p>
       <p>🛠️ <b>Tech Stack:</b><br>
